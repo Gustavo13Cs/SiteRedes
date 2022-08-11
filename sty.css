@@ -4,3 +4,9 @@ body {
     background-color: rgba(20, 20, 20, 0.911);
     color: azure;
 }
+
+img {
+    width: 65%;
+    height: 65%;
+}
+
